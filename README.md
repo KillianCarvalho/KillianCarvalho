@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEzMzRiZDlkNmY0YzIwNDk0Njk5YTE3ZmEzMzAxOWVhZTg4NjE1OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
+  <img src="https://github.com/KillianCarvalho/KillianCarvalho/blob/KillianCarvalho-patch-1/banner.png"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/killian-carvalho-89m1/" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
