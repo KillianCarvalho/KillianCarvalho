@@ -9,6 +9,9 @@
     I am currently working towards obtaining my level 6 RNCP title as an Application Developer. I am always seeking to learn and grow🚀, both personally and professionally🌱.
   </p>
 </div>
+<div>
+  <h2>Skills</h2>
+</div>
 <!--<div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/killian-carvalho-89m1/" >
