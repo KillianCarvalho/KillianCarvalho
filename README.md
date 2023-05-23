@@ -5,8 +5,8 @@
 <div>
   <h1>Killian Carvalho 🤵</h1>
   <p>
-    My name is Killian Carvalho and I study at 89, École Supérieur du Numérique 👨‍🎓. I have been learning computer science for 3 years in this school 💻. 
-    I am currently working towards obtaining my level 6 RNCP title as an Application Developer. I am always seeking to learn and grow 🚀, both personally and professionally 🌱.
+    My name is Killian Carvalho and I study at 89, École Supérieur du Numérique 👨‍🎓. I have been learning computer science for 3 years in this school 💻. <br/>
+    I am currently working towards obtaining my level 6 RNCP title as an Application Developer. I am always seeking to learn and grow 🚀, both personally and professionally 🌱.<br/>
     My current goal is to become data scientist 👨‍🔬.
   </p>
 </div>
