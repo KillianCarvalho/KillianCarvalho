@@ -1,4 +1,14 @@
 <h1>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEzMzRiZDlkNmY0YzIwNDk0Njk5YTE3ZmEzMzAxOWVhZTg4NjE1OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
+</div>
+<div>
+  <h1>Killian Carvalho</h1>
+  <p>
+    My name is Killian Carvalho and I study at 89, École Supérieur du Numérique 👨‍🎓. I have been learning computer science for 3 years in this school👨‍💻. 
+    I am currently working towards obtaining my level 6 RNCP title as an Application Developer. I am always seeking to learn and grow🚀, both personally and professionally🌱.
+  </p>
+</div>
 <!--<div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/killian-carvalho-89m1/" >
