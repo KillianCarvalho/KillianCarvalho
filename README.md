@@ -1,11 +1,23 @@
-a<h1 align="center">Hi Everyone👋🏻</h1>
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table td {
+  vertical-align: top; /* Alignement vertical en haut */
+  border: 1px solid black; /* Bordures pour délimiter les cellules */
+  padding: 8px; /* Espacement interne pour le texte */
+}
+</style>
+<h1 align="center">Hi Everyone👋🏻</h1>
 
 <p>I'm Killian Carvalho, a french student in computer science at <a href="https://www.ecole-89.com/">Ecole 89</a>. I'm currently in my fourth year of study.</p>
 
 <h2 align="center">📫 How to reach me</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/killian-carvalho-89m1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/560923796668678144"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://www.discordapp.com/users/560923796668678144"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://www.instagram.com/qwercus__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="mailto:killiancarvalho.pro@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
     <a href="https://stackoverflow.com/users/22625419/qwercus"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
@@ -163,6 +175,20 @@ a<h1 align="center">Hi Everyone👋🏻</h1>
     </table>
 
 </div>
+<table>
+  <tr>
+    <td>Compétence 1</td>
+    <td>Compétence 2</td>
+    <td>Compétence 3</td>
+  </tr>
+  <tr>
+    <td>Ligne 1<br>Ligne 2</td>
+    <td>Texte sur deux lignes</td>
+    <td>Une autre<br>exempl
+e sur deux lignes</td>
+  </tr>
+</table>
+
 <!--
 **KillianCarvalho/KillianCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
