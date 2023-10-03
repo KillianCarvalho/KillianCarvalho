@@ -1,15 +1,3 @@
-<style>
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-table td {
-  vertical-align: top; /* Alignement vertical en haut */
-  border: 1px solid black; /* Bordures pour délimiter les cellules */
-  padding: 8px; /* Espacement interne pour le texte */
-}
-</style>
 <h1 align="center">Hi Everyone👋🏻</h1>
 
 <p>I'm Killian Carvalho, a french student in computer science at <a href="https://www.ecole-89.com/">Ecole 89</a>. I'm currently in my fourth year of study.</p>
