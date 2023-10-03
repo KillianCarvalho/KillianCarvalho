@@ -44,6 +44,7 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50" height="50" />
                 </div>
+                <br>
             </td>
         </tr>
         <tr>
@@ -158,24 +159,11 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" />
                 </div>
+                <br>
             </td>
         </tr>
     </table>
-
 </div>
-<table>
-  <tr>
-    <td>Compétence 1</td>
-    <td>Compétence 2</td>
-    <td>Compétence 3</td>
-  </tr>
-  <tr>
-    <td>Ligne 1<br>Ligne 2</td>
-    <td>Texte sur deux lignes</td>
-    <td>Une autre<br>exempl
-e sur deux lignes</td>
-  </tr>
-</table>
 
 <!--
 **KillianCarvalho/KillianCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
