@@ -44,7 +44,7 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50" height="50" />
                 </div>
-                <br><br>
+                <br><br><br>
             </td>
         </tr>
         <tr>
